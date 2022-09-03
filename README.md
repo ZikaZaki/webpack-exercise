@@ -1,15 +1,15 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Webpack Exercise
 
-> Description the project.
+> In this exercise we will build a simple yet powerful webpack boilerplate, which we can later use as a starting point in our projects. We will be working with the webpack official guides, which we know already from the previous lesson.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Languages: Html, CSS, & JavaScript
+- Frameworks: No-frameworks
+- Technologies Used: Webpack
 
 ## Live Demo (if available)
 
@@ -40,23 +40,17 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Author1**
+👤 **ZikaZaki**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/ZikaZaki)
+- Twitter: [@twitterhandle](https://twitter.com/ZakariyaKhamisi)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/zakariyaalkhamisisap/)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/ZikaZaki/webpack-exercise/issues).
 
 ## Show your support
 
